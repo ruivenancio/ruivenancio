@@ -2,6 +2,7 @@
 
 <div>
   <a ref="https://github.com/ruivenancio">
+    <img src="https://github.com/ruivenancio.png" style="width: 100px; height: 100px; border-radius: 50px;">
   <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivenancio&langs_count=16&layout=compact"/>-->
   
   <div style="display: inline_block">
